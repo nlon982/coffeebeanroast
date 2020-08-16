@@ -70,6 +70,8 @@ footer {
 	left: 0; 
 	top: 0; 
 	z-index: 0
+	width: 470px;
+	height: 300px;
 }
 
 #cnvZoomPixels{
@@ -78,6 +80,8 @@ footer {
     left: 470px;
     top: 0;
     z-index: 0
+    width: 150px;
+    height: 150px;
 }
 
 #dvSampleFrame{
@@ -99,4 +103,30 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#loadimage{
+    width: 15%;
+}
+
+#uploadimagetd{
+    width: 61%;
+}
+
+#rollingimagetd{
+    width: 24%;
+    align: center;
+}
+
+#roastcolortd{
+    width: 80%;
+}
+
+#buttonstd{
+    width: 20%;
+    align: left;
+}
+
+#Comments{
+    align: center;
 }
